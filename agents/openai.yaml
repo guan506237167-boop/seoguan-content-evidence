@@ -1,0 +1,4 @@
+interface:
+  display_name: "关山阅·文章事实与证据检查"
+  short_description: "逐项审核文章中的事实、数据、案例归属和效果承诺，给出有依据的修订。适用于发布前审核，不提供伪精确AI检测率。"
+  default_prompt: "使用 $seoguan-content-evidence，根据我提供的材料完成文章事实与证据检查，保留证据与未确认项。"
